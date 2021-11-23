@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.fot{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+.distortion{
+  width: 800px;
+  height: 650px;
+  background-size: cover;
+margin-top: 30px;
+margin-left: 10px;
+}
+.robot{
+    width: 800px;
+    height: 650px;
+    background-size: cover;
+    background-attachment: fixed;
+  margin-top: 30px;
+  margin-left: 10px;
+  }
+  .dalone{
+    width: 800px;
+    height: 650px;
+  margin-top: 30px;
+  margin-left: 10px;
+  }
+  .alone{
+    width: 800px;
+    height: 650px;
+  margin-top: 30px;
+  margin-left: 10px;
+  }
+  .bully{
+    width: 800px;
+    height: 650px;
+  margin-top: 30px;
+  margin-left: 10px;
+  }
